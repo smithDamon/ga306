@@ -33,7 +33,7 @@
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars2.githubusercontent.com/u/771459?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="justinglobal/GA306_a" property="og:title" /><meta content="https://github.com/justinglobal/GA306_a" property="og:url" /><meta content="Does it work if I change this?" property="og:description" />
+    <meta content="https://avatars2.githubusercontent.com/u/771459?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="smithDamon/GA306_a" property="og:title" /><meta content="https://github.com/smithDamon/GA306_a" property="og:url" /><meta content="Does it work if I change this?" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjQyMzEwNzE4OjMzMTdiMmY5YTc5NWZiOGI5MzE4YzgxNTM5NDc4NzU2NzY3YzU4NzdmOGM4OGM4MWIzOWZmMjI1YjUzM2I2YmY=--7da220f7fe28108be84eb0261090a59a8abacf65">
